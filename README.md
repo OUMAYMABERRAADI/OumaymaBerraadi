@@ -1,5 +1,5 @@
 - 👋 Hi, I’m OUMAYMA BERRAADI
-- I study in first class Master degre
+- I study in second class Master degre
 - 👀 I’m interested in Machine learning, deep Learning & BigData 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
